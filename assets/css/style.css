@@ -1,0 +1,31 @@
+body {
+    padding: 15px;
+    background-color: lightgray;
+}
+
+.animal-button {
+    color: darkslategray;
+    background-color: lightblue;
+    border-color: grey;
+    padding: 7px;
+    margin: 5px;
+}
+
+.animal-image-holder {
+    padding: 15px;
+    float: left;
+    text-align: center;
+}
+
+.jumbotron {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkslategray;
+    color: lightgray;
+    text-align: center;
+}
+
+.descript-text {
+    color: darkslategrey;
+    padding: 2px 0px 2px 0px;
+    size: 14px;
+}
